@@ -1,0 +1,14 @@
+.fondo {
+    background-color: #e2dab6;
+}
+
+hr {
+    background-color: rgb(139, 58, 58);
+    height: 2px;
+    width: auto;
+}
+
+h1 {
+    text-align: center;
+    text-decoration: underline;
+}
